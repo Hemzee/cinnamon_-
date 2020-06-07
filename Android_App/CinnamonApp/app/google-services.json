@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "140416992123",
+    "firebase_url": "https://cinnamonapp-8531c.firebaseio.com",
+    "project_id": "cinnamonapp-8531c",
+    "storage_bucket": "cinnamonapp-8531c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140416992123:android:f814a8288c7f5923feb3de",
+        "android_client_info": {
+          "package_name": "com.example.cinnamonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140416992123-4i0as3jtjgssqrcfg1gpb4fgoj31mevp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cinnamonapp",
+            "certificate_hash": "4ee06d28de06982db6d4bee5b4b1219b2ab342d6"
+          }
+        },
+        {
+          "client_id": "140416992123-n2pdatcdcvjs6daap4tc9usp7pflfrs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0SacRd9unIq8uwvdt5De-jPXFBkKUHUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140416992123-n2pdatcdcvjs6daap4tc9usp7pflfrs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
